@@ -1,4 +1,5 @@
-###  Taller de manejo y visualización de datos con Python - DATA ANALYSIS AND VISUALIZATION WITH PYTHON (TMVP 2018-1)
+### Data Analysis and Visualization with Python
+####  Taller de manejo y visualización de datos con Python 
 
 
 | Talle Libre:  |  Taller de manejo y visualización de datos con Python     |   
