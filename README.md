@@ -68,4 +68,4 @@ explica a connuación:
 | 9 | Ejemplo Práctico II | Clase teórico-práctica Trabajando con la encuesta CASEN Entrega de informe preliminar |
 | 10 | Sesión ﬁnal | Clase práctica Presentaciones del trabajo ﬁnal.Cierre del taller. |
 
-Este curso está basado en el material de Phd. Eduardo Graells (https://github.com/carnby/uddvis)
+Este curso está basado en el gran trabajo de Phd. Eduardo Graells (https://github.com/carnby/uddvis)
