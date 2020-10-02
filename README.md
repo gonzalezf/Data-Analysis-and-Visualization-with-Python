@@ -1,10 +1,10 @@
-# DATA-ANALYSIS-AND-VISUALIZATION-WITH-PYTHON-TMVP-2018-1-
+### DATA-ANALYSIS-AND-VISUALIZATION-WITH-PYTHON
+
 Data science classes for computer science &amp; and engineering students. Developed a class curriculum, lesson plans, and instructions about how to manage data and create meaningful visualizations using Python, Pandas, Matplotlib, Seaborn and Plotly
 ==========
 
-![](RackMultipart20201002-4-1pchwt2_html_f77bced726f9ef67.jpg) ![](RackMultipart20201002-4-1pchwt2_html_da1dd2f9be3eb417.jpg)
 
-# UNIVERSIDAD TÉCNICA FEDERICO SANTA MARÍA DEPARTAMENTO DE INFORMÁTICA
+
 
 **Identificación**
 
