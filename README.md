@@ -1,11 +1,5 @@
 ### DATA-ANALYSIS-AND-VISUALIZATION-WITH-PYTHON
 
-Data science classes for computer science &amp; and engineering students. Developed a class curriculum, lesson plans, and instructions about how to manage data and create meaningful visualizations using Python, Pandas, Matplotlib, Seaborn and Plotly
-==========
-
-
-
-
 **Identificación**
 
 | Talle Libre: Taller de manejo y visualización de datos con Python |
