@@ -57,15 +57,15 @@ explica a connuación:
 
 | **Sesión Nº** | **Nombre** | **Tipo Actividad** |
 | --- | --- | --- |
-|1 | Introducción y motivación al taller. | Clase teórico-prácticaEjemplo de cómo Data Science logra solucionar problemas (Open Street Map yRed de transporte) |
-|2| Introducción a Pandas | Clase teórico-prácticaInstalación de librería, manejo de objetos y missing values en Pandas. |
-|3| Extracción de datasets desde la web | Clase teórico-prácticaExtracción de información desde sitios web usando Python + Pandas |
-|4| Limpieza de datos con Pandas | Clase teórico-prácticaData Munging. Unión de datasets con Pandas |
-|5 | Introducción a la visualización de información | Clase teórico-prácticaIntroducción a Matplotlib. Gráﬁcos de línea y dispersión. Visualización de errores en gráﬁcos. |
-|6 | ¿Cuál es el gráﬁco correcto para mis datos? | Clase teórico-prácticaGráﬁcos de densidad y contorno.Histogramas. Personalización de ﬁguras. |
-| 7 | Visualización de información geoespacial | Clase teórico-prácticaVisualización de data con BaseMap (data geográﬁca) y Seaborn. |
-|8 | Ejemplo Práctico I | Clase teórico-prácticaTrabajando con la encuesta de viajes(origen-destino), Santiago 2012 |
-| 9 | Ejemplo Práctico II | Clase teórico-prácticaTrabajando con la encuesta CASEN Entrega de informe preliminar |
-| 10 | Sesión ﬁnal | Clase prácticaPresentaciones del trabajo ﬁnal.Cierre del taller. |
+|1 | Introducción y motivación al taller. | Clase teórico-práctica Ejemplo de cómo Data Science logra solucionar problemas (Open Street Map yRed de transporte) |
+|2| Introducción a Pandas | Clase teórico-práctica Instalación de librería, manejo de objetos y missing values en Pandas. |
+|3| Extracción de datasets desde la web | Clase teórico-práctica Extracción de información desde sitios web usando Python + Pandas |
+|4| Limpieza de datos con Pandas | Clase teórico-práctica Data Munging. Unión de datasets con Pandas |
+|5 | Introducción a la visualización de información | Clase teórico-práctica Introducción a Matplotlib. Gráﬁcos de línea y dispersión. Visualización de errores en gráﬁcos. |
+|6 | ¿Cuál es el gráﬁco correcto para mis datos? | Clase teórico-práctica Gráﬁcos de densidad y contorno.Histogramas. Personalización de ﬁguras. |
+| 7 | Visualización de información geoespacial | Clase teórico-práctica Visualización de data con BaseMap (data geográﬁca) y Seaborn. |
+|8 | Ejemplo Práctico I | Clase teórico-práctica Trabajando con la encuesta de viajes(origen-destino), Santiago 2012 |
+| 9 | Ejemplo Práctico II | Clase teórico-práctica Trabajando con la encuesta CASEN Entrega de informe preliminar |
+| 10 | Sesión ﬁnal | Clase práctica Presentaciones del trabajo ﬁnal.Cierre del taller. |
 
 Este curso está basado en el material de Phd. Eduardo Graells (https://github.com/carnby/uddvis)
