@@ -8,7 +8,7 @@
 | Hrs. Cat. Sem.: 1:30 (hora reloj) | Horario: Jueves 7-8 |
 | Cant. Sesiones: 10 | Fecha Inicio: 15/03/2018 | Fecha Término: 24/05/2018 |
 
-**Descripción**
+**Descripción**: En este taller los estudiantes desarrollaran habilidades de análisis de datos y visualización de información. Se ulizará Python con el framework Anaconda y las librerías Pandas y Matplotlib
 
 **Requisitos de entrada**
 
